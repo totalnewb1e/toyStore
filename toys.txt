@@ -1,0 +1,12 @@
+1,Car model,4,45.0
+2,Plush,9,10.0
+3,Slime,4,5.0
+1,Car model,13,30.0
+2,Plush,10,10.0
+3,Slime,5,5.0
+1,Car model,13,30.0
+2,Plush,10,10.0
+3,Slime,5,5.0
+1,Car model,15,30.0
+2,Plush,10,10.0
+3,Slime,5,5.0
